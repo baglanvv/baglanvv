@@ -10,6 +10,14 @@ I care about the part of AI products that is easy to skip: deciding what
 
 ### Selected work
 
+**[ai-answer-grading-case-study](https://github.com/baglanvv/ai-answer-grading-case-study)** —
+product and AI product work on a B2B corporate training platform, as sole
+product owner. The platform's core claim rested on learners writing answers in
+their own words, and nothing responded to what they wrote; I specified and
+shipped LLM validation across ~10 exercise types. Also states what I got wrong:
+shipped without an eval harness, and wrote the grading criteria myself — the
+one arrangement that guarantees nothing can tell you your criteria are wrong.
+
 **[churn-reason-eval](https://github.com/baglanvv/churn-reason-eval)** — an
 evaluation harness for an LLM classifier in EdTech retention, built to decide
 whether a model should replace rules. It returned a more useful answer: a $0
