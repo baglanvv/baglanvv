@@ -30,11 +30,28 @@ super-app's move from monolith to microservices.
 
 **Co-Founder & CPO, Vesso** · Dec 2020 to Oct 2024
 MarkTech and EdTech startup, later pivoted. Shipped two apps that made 11M KZT
-in two months, built LLM agents for retail clients, and launched an LMS with 10
-private schools in Kazakhstan. Raised ~$50K pre-seed. Google for Startups,
+in two months, built an LLM chatbot for retail clients, and launched an LMS with
+10 private schools in Kazakhstan. Raised ~$50K pre-seed. Google for Startups,
 Berkeley SkyDeck, Dubai WEIF 2022. Showcased at WebSummit 2022.
 
 ### Selected work
+
+**[experiment-velocity-case-study](https://github.com/baglanvv/experiment-velocity-case-study)**
+
+We had more experiment ideas than we could build, so I treated production
+throughput as the growth constraint instead of ideation. AI generation across
+funnel assembly, creative and idea digests took a funnel from two weeks to four
+days, which is what made 130+ experiments possible. Covers the video model
+stack, the localization QA chain for 150+ markets, and why I won't claim faster
+production caused the numbers it enabled.
+
+**[ai-chatbot-retail-case-study](https://github.com/baglanvv/ai-chatbot-retail-case-study)**
+
+An LLM chatbot for retail clients in 2021, when there was no eval tooling and
+no shared vocabulary for a model that confidently says something false. A small
+body of work, described at its real size. The useful part is what was missing:
+no written definition of a good reply, and a client inbox full of labeled
+training data I never used.
 
 **[ai-answer-grading-case-study](https://github.com/baglanvv/ai-answer-grading-case-study)**
 
