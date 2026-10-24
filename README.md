@@ -15,7 +15,7 @@ what "good output" means before you ship, and being able to show it moved.
 
 ### Experience
 
-**Product Lead, Zimran** · Mar 2025 to present
+**Growth Product Lead, Zimran** · Mar 2025 to present
 B2C mobile subscription EdTech/fintech for the US and other tier-1 markets. Led
 a cross-functional team of 20. Ran 130+ A/B experiments across web and mobile,
 which moved upsell rate 65%, D7 retention 45%, and CSAT 2x, and cut CAC and
