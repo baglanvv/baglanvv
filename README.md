@@ -1,9 +1,7 @@
 ## Baglan Zharkenov
 
-Senior product manager. Five years on B2C subscription products across the US,
-Canada and new markets, plus fintech and EdTech in the CIS. CS degree, two
-AI-related research publications, and a habit of settling arguments with an
-experiment.
+Senior product manager with 4+ years experience on B2C subscription products across the US,
+Canada and new markets. CS degree, two AI-related research publications, and a habit of settling arguments with an experiment.
 
 Currently Product Lead at Zimran, where I grew a subscription app into the #1
 EdTech app in the US (Newsweek) and scaled it into 150+ markets.
@@ -16,8 +14,7 @@ what "good output" means before you ship, and being able to show it moved.
 ### Experience
 
 **Growth Product Lead, Zimran** · Mar 2025 to present
-B2C mobile subscription EdTech/fintech for the US and other tier-1 markets. Led
-a cross-functional team of 20. Ran 130+ A/B experiments across web and mobile,
+B2C mobile subscription EdTech/fintech for the US and other tier-1 markets. Led a cross-functional team of 20. Ran 130+ A/B experiments across web and mobile,
 which moved upsell rate 65%, D7 retention 45%, and CSAT 2x, and cut CAC and
 refund rate by 6pp. Scaled to 150+ markets with full localization of currency,
 tax, compliance and language. Cut funnel production time 3x with AI automation.
