@@ -1,6 +1,6 @@
 ## Baglan Zharkenov
 
-Senior product manager with 4+ years experience on B2C subscription products across the US,
+Growth Product with 4+ years experience on B2C subscription products across the US,
 Canada and new markets. CS degree, two AI-related research publications, and a habit of settling arguments with an experiment.
 
 Currently Product Lead at Zimran, where I grew a subscription app into the #1
